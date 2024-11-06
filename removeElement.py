@@ -13,9 +13,6 @@ class Solution:
         return i, nums
 
 
-
-
-
 if __name__ == "__main__":
     solution = Solution()
     nums = [3,2,2,3]
