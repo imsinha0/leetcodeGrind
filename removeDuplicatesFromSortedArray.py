@@ -26,7 +26,7 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    nums = [1,1,2]
+    nums = [1,1,1,1,1,1,1,1,1,2]
     print(solution.removeDuplicates(nums))
 
 
