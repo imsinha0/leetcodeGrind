@@ -19,6 +19,7 @@ class RandomizedSet:
 # param_2 = obj.remove(val)
 # param_3 = obj.getRandom()
 
+
 '''
 
 import random
