@@ -16,6 +16,7 @@ class Solution:
         return True
         '''
 
+
         #alternate solution
 
         currentPos = 0
